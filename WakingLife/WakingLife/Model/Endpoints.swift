@@ -2,7 +2,7 @@ import Foundation
 
 // MARK: - My API Key
 enum API {
-    static let key = "INSERT_YOUR_API_KEY_HERE"
+    static let key = "API_Key"
 }
 
 // MARK: - Assembling URLs

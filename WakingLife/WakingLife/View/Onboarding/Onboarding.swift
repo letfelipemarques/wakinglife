@@ -17,7 +17,7 @@ struct Onboarding: View {
                         .foregroundColor(.primary)
                     Spacer()
                     NavigationLink {
-                        Home()
+                        MainScreen()
                             .preferredColorScheme(.dark)
                             .navigationBarHidden(true)
                     } label: {
